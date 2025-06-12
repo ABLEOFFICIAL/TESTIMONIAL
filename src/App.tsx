@@ -1,5 +1,5 @@
 import Newsletter from "./components/Newsletter";
-import TestimonialSlider from "./components/Testimonialslider";
+import TestimonialSlider from "./components/TestimonialSlider";
 
 function App() {
   return (
